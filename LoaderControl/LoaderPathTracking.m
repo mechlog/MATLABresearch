@@ -11,7 +11,7 @@
 % Shiroma, N. et al., "Nonlinear StraightPath Tracking Control
 % for an Articulated Steering Type Vehicle",
 % Transactions of the Japan Society of Mechanical Engineers,
-% Series(C), Vol.76, No.763, 2010, pp.151?158. (in Japanese)
+% Series(C), Vol.76, No.763, 2010, pp.151-158. (in Japanese)
 % https://www.jstage.jst.go.jp/article/kikaic1979/76/763/76_KJ00006168003/_article/-char/ja/
 % % % % % % % % % % % % % % % % % % % % % % % % %
 
